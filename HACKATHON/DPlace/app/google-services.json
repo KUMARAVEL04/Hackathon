@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44735269550",
+    "project_id": "dplace-5d916",
+    "storage_bucket": "dplace-5d916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44735269550:android:c4c2edc887cc1e19bdfb3f",
+        "android_client_info": {
+          "package_name": "com.example.dplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGABUp55bDNOzqPJRZwQfffLTV4Wbqk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
